@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="cn.wzu.ccw.game">
+    <!-- 访问网络 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:name="cn.wzu.ccw.game.activity.socket_connections"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="MultiPlayer PK System"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+
+        <activity android:name="cn.wzu.ccw.game.activity.GuideActivity" /> <!-- 启动页，倒计时 -->
+        <activity android:name="cn.wzu.ccw.game.activity.CountDownActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="cn.wzu.ccw.game.activity.LoginActivity" />
+        <activity android:name="cn.wzu.ccw.game.activity.RegisterActivity" />
+        <activity
+            android:name="cn.wzu.ccw.game.activity.Home"
+            android:theme="@style/home_style"
+            />
+        <activity android:name="cn.wzu.ccw.game.activity.BaseActivity"/>
+        <activity android:name="cn.wzu.ccw.game.activity.Home_fragment"/>
+        <activity android:name="cn.wzu.ccw.game.activity.pagerAdapter"/>
+        <activity android:name="cn.wzu.ccw.game.activity.playerData"/>
+        <activity android:name="cn.wzu.ccw.game.activity.playerNameAdapter"/>
+        <activity android:name="cn.wzu.ccw.game.activity.profile_fragment"/>
+        <activity
+            android:name="cn.wzu.ccw.game.activity.PlayQuiz"
+            android:theme="@style/custom" />
+        <activity
+            android:name="cn.wzu.ccw.game.activity.tic_tac_toe"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="www.myurl.com"
+                    android:path="/sso"
+                    android:scheme="game" />
+            </intent-filter>
+        </activity>
+        <activity android:name="cn.wzu.ccw.game.activity.SettingsActivity">
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
+    </application>
+
+</manifest>

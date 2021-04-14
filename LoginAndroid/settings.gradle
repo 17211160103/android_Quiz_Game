@@ -1,0 +1,2 @@
+include ':app',':xhttp2-lib'
+rootProject.name = "My Application"

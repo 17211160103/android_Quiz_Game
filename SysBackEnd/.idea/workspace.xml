@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:LoginDemoComplex" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:LoginDemoComplex" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:LoginBackEnd" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80b65e07-fa6b-4daf-8958-313057657f67" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\.m2\repository" />
+        <option name="mavenHome" value="F:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.2.3\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="F:\.m2\conf\settings-aliyun.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1kJlXuUxpyuCvLsqdE96G69ZIA8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="MyBatis LogindexNum" value="448" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="/user&#9;FILE&#9;file://D:/GitHub/Android/AndroidLoginDemo/LoginDemoComplex/LoginBackEnd/src/main/java/edu/heuet/android/logindemo/controller/UserController.java&#10;/login&#9;FILE&#9;file://D:/GitHub/Android/AndroidLoginDemo/LoginDemoComplex/LoginBackEnd" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559927665698" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../TestQuestionBankManSys-master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.3402299" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.heuet.shaohua.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Workspaces\IDEA\LoginBackEnd" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 9 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 9 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="login-backend" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="wzu.ccw.backEnd.App" />
+      <module name="SysBackEnd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.heuet.shaohua.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SysBackEnd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.heuet.shaohua.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.heuet.android.shaohua" />
+      <option name="MAIN_CLASS_NAME" value="edu.heuet.android.shaohua.AppTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[mybatis-generator:generate]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="JUnit.AppTest.test" />
+      <item itemvalue="Maven.[mybatis-generator:generate]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.AppTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80b65e07-fa6b-4daf-8958-313057657f67" name="Default Changelist" comment="" />
+      <created>1559268233370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559268233370</updated>
+      <workItem from="1559268237093" duration="17317000" />
+      <workItem from="1559354228690" duration="13054000" />
+      <workItem from="1559394199706" duration="9027000" />
+      <workItem from="1559445804364" duration="4469000" />
+      <workItem from="1559468067786" duration="8950000" />
+      <workItem from="1559527448847" duration="10033000" />
+      <workItem from="1559572815076" duration="3139000" />
+      <workItem from="1559605574470" duration="3897000" />
+      <workItem from="1559619196991" duration="6681000" />
+      <workItem from="1559648569559" duration="5668000" />
+      <workItem from="1559655354184" duration="1500000" />
+      <workItem from="1559656912768" duration="748000" />
+      <workItem from="1559724054553" duration="3622000" />
+      <workItem from="1559730116721" duration="1772000" />
+      <workItem from="1559749533592" duration="4140000" />
+      <workItem from="1559781607326" duration="5372000" />
+      <workItem from="1559795804426" duration="4142000" />
+      <workItem from="1559816168333" duration="2126000" />
+      <workItem from="1559833190078" duration="3800000" />
+      <workItem from="1559876845908" duration="5437000" />
+      <workItem from="1614091796608" duration="1646000" />
+      <workItem from="1614130397192" duration="1561000" />
+      <workItem from="1614217929129" duration="10464000" />
+      <workItem from="1614669411602" duration="2996000" />
+      <workItem from="1615120540319" duration="60000" />
+      <workItem from="1615359247827" duration="1082000" />
+      <workItem from="1615367394958" duration="2055000" />
+      <workItem from="1615461705402" duration="41000" />
+      <workItem from="1615734044662" duration="752000" />
+      <workItem from="1615946604578" duration="4851000" />
+      <workItem from="1616065918301" duration="1127000" />
+      <workItem from="1616067108474" duration="445000" />
+      <workItem from="1616068832967" duration="1222000" />
+      <workItem from="1616077197407" duration="1228000" />
+      <workItem from="1616161993235" duration="3279000" />
+      <workItem from="1616208592406" duration="10708000" />
+      <workItem from="1616247573550" duration="906000" />
+      <workItem from="1616255780003" duration="1683000" />
+      <workItem from="1616301757008" duration="2455000" />
+      <workItem from="1616333950630" duration="2575000" />
+      <workItem from="1617283242166" duration="1153000" />
+      <workItem from="1617429829555" duration="1825000" />
+      <workItem from="1617543963043" duration="828000" />
+      <workItem from="1617697828494" duration="656000" />
+      <workItem from="1617762637518" duration="490000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="194" y="83" width="1089" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617763140245">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="184" y="87" width="1089" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1458.864@0.0.1458.864" timestamp="1610179893706" />
+    <state x="194" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1617763140245" />
+    <state x="517" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1614234346258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="517" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1614234346258" />
+    <state x="282" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1615734726503">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="282" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1615734726503" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1617762887823">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1617762887823" />
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom" timestamp="1617698492195">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1415" height="244" key="GridCell.Tab.0.bottom/0.0.1458.864@0.0.1458.864" timestamp="1610521887212" />
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617698492195" />
+    <state width="1493" height="204" key="GridCell.Tab.0.center" timestamp="1617698492195">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1415" height="244" key="GridCell.Tab.0.center/0.0.1458.864@0.0.1458.864" timestamp="1610521887212" />
+    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617698492195" />
+    <state width="1493" height="204" key="GridCell.Tab.0.left" timestamp="1617698492186">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1415" height="244" key="GridCell.Tab.0.left/0.0.1458.864@0.0.1458.864" timestamp="1610521887212" />
+    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617698492186" />
+    <state width="1493" height="204" key="GridCell.Tab.0.right" timestamp="1617698492195">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1415" height="244" key="GridCell.Tab.0.right/0.0.1458.864@0.0.1458.864" timestamp="1610521887212" />
+    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617698492195" />
+    <state width="1415" height="391" key="GridCell.Tab.1.bottom" timestamp="1610521949820">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="391" key="GridCell.Tab.1.bottom/0.0.1458.864@0.0.1458.864" timestamp="1610521949820" />
+    <state width="1415" height="391" key="GridCell.Tab.1.center" timestamp="1610521949820">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="391" key="GridCell.Tab.1.center/0.0.1458.864@0.0.1458.864" timestamp="1610521949820" />
+    <state width="1415" height="391" key="GridCell.Tab.1.left" timestamp="1610521949819">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="391" key="GridCell.Tab.1.left/0.0.1458.864@0.0.1458.864" timestamp="1610521949819" />
+    <state width="1415" height="391" key="GridCell.Tab.1.right" timestamp="1610521949820">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="391" key="GridCell.Tab.1.right/0.0.1458.864@0.0.1458.864" timestamp="1610521949820" />
+    <state x="367" y="70" key="SettingsEditor" timestamp="1617762864227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="367" y="70" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1617762864227" />
+    <state x="413" y="173" width="708" height="647" key="search.everywhere.popup" timestamp="1616067286704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="392" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1458.864@0.0.1458.864" timestamp="1610521536027" />
+    <state x="413" y="173" width="708" height="647" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1616067286704" />
+  </component>
+</project>
